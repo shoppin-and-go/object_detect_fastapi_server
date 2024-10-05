@@ -2,6 +2,7 @@
 
 data={
         "process": 프로세스 번호(int),
+        
         "images": [
         
         {"image_name": 이미지 이름1, "image_data": Base64로 인코드 된 이미지1},
